@@ -14,7 +14,8 @@ This repo contains original, playlist-aligned notes, runnable educational code, 
 - `code/`: dependency-light Python examples that demonstrate chains, parsers, retrieval, graph workflows, memory, tool calling, MCP-style tool discovery, CRAG, Self-RAG, and tracing.
 - `projects/`: project blueprints for a blog research agent, resume chat, SQLite memory chatbot, and Streamlit chatbot.
 - `interview-prep/`: interview questions, system design notes, and practice exercises.
-- `pdf/Agentic_Systems_Study_Guide.pdf`: printable study guide.
+- `pdf/Agentic_Systems_Study_Guide.pdf`: concise printable study guide.
+- `pdf/Agentic_Systems_Masterclass.pdf`: expanded beginner-to-advanced instructor-style PDF covering foundations, frameworks, RAG, tools, memory, production, and interviews.
 
 ## Quick Start
 
