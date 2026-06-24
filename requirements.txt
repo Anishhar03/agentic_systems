@@ -1,0 +1,7 @@
+# Optional real-framework dependencies.
+# The educational examples in code/examples run with the Python standard library.
+langchain>=0.3
+langgraph>=0.2
+langsmith>=0.1
+streamlit>=1.36
+pydantic>=2
